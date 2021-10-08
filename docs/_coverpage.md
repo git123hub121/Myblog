@@ -1,4 +1,4 @@
-<img src="https://hbimg.huabanimg.com/4a1b2a0fe31f092daa75623eeb7134196906cfe022f5f-mrSxZ0" alt="logo" style="zoom: 33%;" />
+<img src="https://hbimg.huabanimg.com/4a1b2a0fe31f092daa75623eeb7134196906cfe022f5f-mrSxZ0" alt="logo" />
 
 # docsify <small>3.5</small>
 
